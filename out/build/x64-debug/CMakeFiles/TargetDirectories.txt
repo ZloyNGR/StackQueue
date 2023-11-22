@@ -1,0 +1,14 @@
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/main/CMakeFiles/main.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/main/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/main/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/stacklib/CMakeFiles/stacklib.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/stacklib/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/stacklib/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/test/CMakeFiles/test.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Gardi/Desktop/StackQueue/out/build/x64-debug/gtest/CMakeFiles/rebuild_cache.dir
